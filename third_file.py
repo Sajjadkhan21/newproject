@@ -6,3 +6,4 @@ edited in gui
 trying pull command.
 whenever when you edit a file on local machine use push commands to upload contents and when you edited the file on github  
 we will use pull command to get the edited version on local machine.
+now i edited this in github profile so i will use pull command to get updated version on local machine.
